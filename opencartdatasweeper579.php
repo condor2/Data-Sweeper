@@ -80,6 +80,10 @@ if(isset($_POST['confirmdelete'])){
 				'order_history',
 				'order_option',
 				'order_product',
+				'option',
+				'option_description',
+				'option_value',
+				'option_value_description',
 				'product',
 				'product_attribute',
 				'product_description',
@@ -99,7 +103,7 @@ if(isset($_POST['confirmdelete'])){
 				'return_history',
 				'review',
 				'store',
-				'url_alias',
+				'seo_url',
 				'voucher',
 				'voucher_history',
 				'voucher_theme',
@@ -113,7 +117,7 @@ if(isset($_POST['confirmdelete'])){
 			}
 			
 			# Delete all the demo images
-			recursiveDelete(DIR_IMAGE . 'data/demo');
+			recursiveDelete(DIR_IMAGE . 'catalog/demo');
 			
 			# Delete all files from the cache directory.
 			recursiveDelete(DIR_IMAGE . 'cache');
