@@ -1,0 +1,23 @@
+OpenCart - Data Sweeper
+
+Minimum version tested: 1.5.6.x
+Maximum version tested: 1.5.6.x
+
+---------------------------------
+Installation instructions
+---------------------------------
+
+1. Upload the file to the root of your OpenCart installation.
+2. Visit the URL yoursite.com/opencartdatasweeper579.php
+3. Read the instructions and when you're ready check the box and click delete data.
+4. Your OpenCart installation is now clean.
+5. Delete the opencartdatasweeper579.php from your root folder.
+
+---------------------------------
+Support/Bugs/Questions
+---------------------------------
+
+Feel free to contact me on the comment system on OpenCart or by opening a support ticket by emailing
+support@craftycoding.com
+
+
