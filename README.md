@@ -1,4 +1,4 @@
-# Data Sweeper 3.x
+# Data Sweeper 2.3.0..x - 3.0.x.x
 
 ## Information
 
