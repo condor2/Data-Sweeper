@@ -103,6 +103,7 @@ if(isset($_POST['confirmdelete'])){
 				'return_history',
 				'review',
 				'store',
+				'url_alias',
 				'seo_url',
 				'voucher',
 				'voucher_history',
