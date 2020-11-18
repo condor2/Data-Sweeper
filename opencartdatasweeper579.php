@@ -1,7 +1,7 @@
 <?php
 /*
 * This script deletes all of the demo products/categories and other information in a default OpenCart setup.
-* Tested with: OpenCart 1.5.6.x
+* Tested with: OpenCart 2.3.0.x - 3.0.x.x
 * Support/Questions/Bugs: support.craftycoding.com
 */
 
