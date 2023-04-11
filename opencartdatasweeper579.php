@@ -98,7 +98,6 @@ if(isset($_POST['confirmdelete'])){
 				'product_to_download',
 				'product_to_layout',
 				'product_to_store',
-				'product_to_dsdsstore',
 				'return',
 				'return_history',
 				'review',
